@@ -1,4 +1,4 @@
-# 🧩 Content Management System in Laravel
+# 🧩 Content Management System in Laravel - Development stage.(Welcome for contributions)
 
 ![Laravel](https://img.shields.io/badge/Laravel-11.x-red?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-^8.2-blue?style=for-the-badge&logo=php)
