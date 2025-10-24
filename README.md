@@ -87,4 +87,3 @@ php artisan storage:link
 # 🔟 Start the Development Server
 php artisan serve
 # Visit your app at http://127.0.0.1:8000
-# Visit your app at http://127.0.0.1:8000
